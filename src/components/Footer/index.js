@@ -3,7 +3,6 @@ import Image from "next/image";
 import styles from "./Footer.module.scss";
 import LanguageSelector from "../LanguageSelector";
 import Divider from "../shared/Divider";
-import SolanaFoundationLogo from "../../../public/src/img/logos-solana/logotype-foundation.inline.svg";
 import YoutubeIcon from "../../../public/src/img/footer/youtube.inline.svg";
 import TwitterIcon from "../../../public/src/img/footer/twitter.inline.svg";
 import DiscordIcon from "../../../public/src/img/footer/discord.inline.svg";

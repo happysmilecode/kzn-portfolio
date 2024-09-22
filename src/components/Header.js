@@ -4,7 +4,6 @@ import { useRouter } from "next/router";
 import { Link } from "../utils/Link";
 import { useEffect } from "react";
 import KZNLogo from "../../public/src/img/kzn/logo.jpg";
-import SolanaLogo from "../../public/src/img/logos-solana/logotype.svg";
 import SolanaLogoDark from "../../public/src/img/logos-solana/logotype-dark.svg";
 import colorModeLight from "../../public/src/img/icons/color-mode-light.svg";
 import colorModeDark from "../../public/src/img/icons/color-mode-dark.svg";
